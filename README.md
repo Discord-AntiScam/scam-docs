@@ -6,10 +6,10 @@
 
 A documentation of all known scams.
 
-- [Scams](/scams/)
-  - [Methods](/scams/methods)
-    - [QR Code Logging](/scams/methods/QR%20Code%20Logging)
-    - [Bookmarklet Logging](/scams/methods/Bookmarklet%20Logging)
+- [Scams](/scam-docs/scams/)
+  - [Methods](/scam-docs/scams/methods)
+    - [QR Code Logging](/scam-docs/scams/methods/QR%20Code%20Logging)
+    - [Bookmarklet Logging](/scam-docs/scams/methods/Bookmarklet%20Logging)
 
 Join our communities for more...<br> 
 https://dsc.gg/dsp-project<br>
