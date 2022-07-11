@@ -1,1 +1,7 @@
 theme: jekyll-theme-hacker
+title: Scam Docs
+show_downloads: false
+whitelist:
+  - jekyll-redirect-from
+plugins:
+  - jekyll-redirect-from
