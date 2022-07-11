@@ -1,5 +1,15 @@
+---
+permalink: /
+title: Home
+description: A documentation of all known Discord scams.
+redirect_from:
+- scams/methods
+- scams/methods/
+- scams
+- scams/
+---
 # The DSP Project - Scam Docs
-A documentation of all known scams.
+A documentation of all known Discord scams.
 
 * [QR Code Logging](./scams/qr-code-logging)
 * [Bookmarklet Logging](./scams/bookmarklet-logging)
