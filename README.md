@@ -6,10 +6,10 @@
 
 A documentation of all known scams.
 
-- [Scams](https://github.com/Discord-AntiScam/scam-docs/tree/main/scams/)
-  - [Methods](https://github.com/Discord-AntiScam/scam-docs/tree/main/scams/methods)
-    - [QR Code Logging](https://github.com/Discord-AntiScam/scam-docs/tree/main/scams/methods/QR%20Code%20Logging.md)
-    - [Bookmarklet Logging](https://github.com/Discord-AntiScam/scam-docs/tree/main/scams/methods/Bookmarklet%20Logging.md)
+- [Scams](/scams/)
+  - [Methods](/scams/methods)
+    - [QR Code Logging](/scams/methods/QR%20Code%20Logging)
+    - [Bookmarklet Logging](/scams/methods/Bookmarklet%20Logging)
 
 Join our communities for more...<br> 
 https://dsc.gg/dsp-project<br>
