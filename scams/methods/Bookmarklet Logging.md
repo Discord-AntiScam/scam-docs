@@ -16,4 +16,4 @@ There isn't much history about this scam as running JavaScript in a bookmark has
 
 > DO NOT TRY ANYTHING MENTIONED TO ANYONE OTHER THAN YOURSELF.
 
-A bookmarklet is created like this `javascript:console.log('im cool 😎')` (this one is harmless), however multiple users have created a bookmark that takes your token and sends it using a webhook like this: https://github.com/entity9/discord-bookmark-grabber/blob/main/grabber.js.
+A bookmarklet is created like this `javascript:console.log('im cool 😎')` (this one is harmless), however multiple users have created a bookmark that takes your token and sends it using a webhook like [this](https://github.com/entity9/discord-bookmark-grabber/blob/main/grabber.js).
