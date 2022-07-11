@@ -12,8 +12,7 @@ A documentation of all known scams.
     - [Bookmarklet Logging](/scam-docs/scams/methods/Bookmarklet%20Logging)
 
 Join our communities for more...<br> 
-https://dsc.gg/dsp-project<br>
-https://reddit.com/r/theDSPproject
+[Discord](https://dsc.gg/dsp-project) • [Reddit](https://reddit.com/r/theDSPproject)
 
 ## Contributors
 <img src="https://contrib.rocks/image?repo=Discord-AntiScam/scam-docs">
