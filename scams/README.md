@@ -1,3 +1,3 @@
 # Scams
 
-- [Methods](/scams/methods)
+- [Methods](/scam-docs/scams/methods)
