@@ -8,8 +8,6 @@ redirect_from:
 - scams
 - scams/
 ---
-A documentation of all known Discord scams.
-
 * [QR Code Logging](./scams/qr-code-logging)
 * [Bookmarklet Logging](./scams/bookmarklet-logging)
 * [Malicious OAuth2 App](./scams/malicious-oauth2-app)
