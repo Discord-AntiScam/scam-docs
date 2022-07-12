@@ -8,7 +8,6 @@ redirect_from:
 - scams
 - scams/
 ---
-# The DSP Project - Scam Docs
 A documentation of all known Discord scams.
 
 * [QR Code Logging](./scams/qr-code-logging)
