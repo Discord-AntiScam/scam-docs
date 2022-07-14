@@ -1,6 +1,7 @@
 ---
 permalink: scams/qr-code-logging
 title: QR Code Logging
+description: QR code logging is the act of grabbing someone's token through a QR code.
 redirect_from:
 - scams/methods/QR%20%Code%20Logging
 - scams/methods/QR%20%Code%20Logging/ 
