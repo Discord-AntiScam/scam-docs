@@ -4,5 +4,6 @@ show_downloads: false
 plugins:
   - jekyll-redirect-from
 safe: true
+github.is_project_page: false
 whitelist:
   - jekyll-redirect-from
