@@ -1,7 +1,7 @@
 ---
 permalink: scams/bookmarklet-logging
 title: Bookmarklet Logging
-description: **Bookmarklet logging** is the act of grabbing someone's token through a bookmark.
+description: Bookmarklet logging is the act of grabbing someone's token through a bookmark.
 redirect_from:
 - scams/methods/Bookmarklet%20Logging
 - scams/methods/Bookmarklet%20Logging/
