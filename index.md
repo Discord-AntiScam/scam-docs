@@ -1,7 +1,5 @@
 ---
 permalink: /
-title: Home
-description: A documentation of all known Discord scams.
 redirect_from:
 - scams/methods
 - scams/methods/
