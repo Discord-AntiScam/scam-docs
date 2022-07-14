@@ -1,7 +1,7 @@
 ---
 permalink: scams/malicious-oauth2-app
 title: Malicious OAuth2 App
-description: A **malicious OAuth2 app** can take your data such as your guilds, email, your connections (such as GitHub, YouTube, etc.).
+description: A malicious OAuth2 app can take your data such as your guilds, email, your connections (such as GitHub, YouTube, etc.).
 redirect_from:
 - scams/methods/Malicious%20OAuth2%20App
 - scams/methods/Malicious%20OAuth2%20App/
